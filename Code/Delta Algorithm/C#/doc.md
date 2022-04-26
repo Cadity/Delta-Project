@@ -41,7 +41,7 @@ Output :
 }
 ```
 
-#### Regex
+#### Alea Gen
 
 ```C#
 public class Identification
