@@ -21,7 +21,7 @@ Output :
  - "success" : Publickey have had a positive result to Regex test
  - "Syntaxic Error" : Publickey have had a negetive result to Regex test
 
-Exemple of Use :
+**Exemple of Use :**
 
 ```C#
  public void RegexTest
