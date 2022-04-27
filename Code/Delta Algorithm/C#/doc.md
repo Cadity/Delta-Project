@@ -26,17 +26,17 @@ Output :
 **Exemple of Use :**
 
 ```C#
- public void RegexTest
+ public string RegexTest
 {
-	string regex = this.Input.Text;
-	var result = Identification.Regex(regex);
+	string PublicKey;
+	var result = Identification.Regex(PublicKey);
 	if (result == "success")
 	{
 		// Instruction
 	}
 	else 
 	{
-		MessageBox.Show("Syntaxic Error ! Try again")
+		return « Error »;
 	}
 }
 ```
