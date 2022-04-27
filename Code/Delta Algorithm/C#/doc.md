@@ -50,6 +50,7 @@ public class Identification
 }
 ```
 Generate a random string of 128 characters among 42 candidates.
+Return random string.
 
 **Exemple of use :**
 
@@ -60,5 +61,14 @@ public string AleaGen
       
       return randomString;
 }
+```
+
+**Exceptions :**
+
+```C#
+if (randomString == null)
+            {
+                throw new Exception(“randomString is null”);
+            }
 ```
 
