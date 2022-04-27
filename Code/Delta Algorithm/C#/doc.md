@@ -67,8 +67,8 @@ public string AleaGen
 
 ```C#
 if (randomString == null)
-            {
-                throw new Exception(“randomString is null”);
-            }
+{
+       throw new Exception(“randomString is null”);
+}
 ```
 
