@@ -51,3 +51,14 @@ public class Identification
 ```
 Generate a random string of 128 characters among 42 candidates.
 
+**Exemple of use :**
+
+```C#
+public string AleaGen
+{
+      var randomString = Identification.AleaGen():
+      
+      return randomString;
+}
+```
+
