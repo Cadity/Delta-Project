@@ -3,11 +3,14 @@
 ## Table of Content
 
 * [Launching](#launching)
+  * [DbConnect](#DbConnect)
 * [Auth Methods](#auth-methods)
   * [Regex](#regex)
   * [Alea Gen](#alea-gen)
 
 ### Launching
+
+#### DbConnect
 
 ### Auth Methods
 
