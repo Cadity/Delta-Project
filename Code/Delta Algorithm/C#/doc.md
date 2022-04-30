@@ -12,6 +12,14 @@
 
 #### DbConnect
 
+```C#
+public class Launching
+{
+	 public static string DbConnect()
+}
+```
+Request a signal to database (by a Laravel Route) ; Return success if access to database has been autorized ; "Error" in the contrary case !
+
 ### Auth Methods
 
 #### Regex
