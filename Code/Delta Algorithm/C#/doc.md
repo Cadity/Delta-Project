@@ -3,22 +3,22 @@
 ## Table of Content
 
 * [Launching](#launching)
-  * [DbConnect](#DbConnect)
+  * [Settings](#settings)
 * [Auth Methods](#auth-methods)
   * [Regex](#regex)
   * [Alea Gen](#alea-gen)
 
 ### Launching
 
-#### DbConnect
+#### Settings
 
 ```C#
 public class Launching
 {
-	 public static string DbConnect()
+	 public static string Settings()
 }
 ```
-Request a signal to database (by a Laravel Route) ; Return success if access to database has been autorized ; "Error" in the contrary case !
+Found Rules value in XML files. Return an Array of rules and value ;
 
 ### Auth Methods
 
