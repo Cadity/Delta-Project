@@ -2,9 +2,12 @@
 
 ## Table of Content
 
+* [Launching](#launching)
 * [Auth Methods](#auth-methods)
   * [Regex](#regex)
   * [Alea Gen](#alea-gen)
+
+### Launching
 
 ### Auth Methods
 
